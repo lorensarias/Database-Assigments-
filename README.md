@@ -1,6 +1,5 @@
 # Database-Assigments
 
 This repository will contains the assigments completed in : 
-
-** -CIS-290 Database fundamentals 1 **
-** -CSIT-355 DATABASE SYSTEMS **
+**-CIS-290 Database fundamentals 
+-CSIT-355 DATABASE SYSTEMS **
